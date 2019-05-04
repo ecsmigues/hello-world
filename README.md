@@ -1,2 +1,3 @@
 # hello-world
-getting started with git.
+
+just testing this thing here..
